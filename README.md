@@ -87,4 +87,4 @@ This feature is work in progress and experimental.
 
 ## License
 
-This software is released under [MIT License](http://www.opensource.org/licenses/mit-license.php)
+This software is released under [MIT License](http://www.opensource.org/licenses/mit-license.php) 
